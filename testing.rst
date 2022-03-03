@@ -21,7 +21,7 @@ Symfony test utilities:
 
 .. code-block:: terminal
 
-    $ composer require --dev phpunit/phpunit symfony/test-pack
+    $ composer require --dev symfony/test-pack
 
 After the library is installed, try running PHPUnit:
 
